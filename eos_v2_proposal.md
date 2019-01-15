@@ -48,6 +48,3 @@ Use of the blockchain shall constitute consent to its terms.
 Article 9 - Dispute Resolution
 This Constitution may be amended by a vote of the EOS token holders that attracts no less than 15% staked vote participation among tokens and no fewer than 10% more Yes votes than No votes, sustained for 30 continuous days within a 120 day period.
 
-Pull Request. 
-https://github.com/EOS-Mainnet/governance/blob/c6a97820d6dfdf6e97efae9646110884e226e74b/eosio.system/eosio.system-clause-constitution-rc.md
-
